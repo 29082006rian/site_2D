@@ -1,3 +1,5 @@
-body{
+body{    
+    background-image: linear-gradient(direction,white, grey ...);
     background-color: grey;
+
 }
