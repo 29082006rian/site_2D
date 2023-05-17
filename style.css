@@ -1,10 +1,10 @@
 *{
     margin: 0%;        padding: 0%; }
 
-.cabeçalho{
+.cabecalho{
     background-color: lemonchiffon;color: black; display: flex;justify-content: space-around; align-items: center; padding: 24px 0;  }
     
-.cabeçalho_imagem{
+.cabecalho_imagem{
     width: 12%; }
     
 .cabeçalho_titulo{
