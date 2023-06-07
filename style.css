@@ -2,7 +2,7 @@
     margin: 0%;        padding: 0%; }
 
 .cabecalho{
-    background-color: rgb(191, 213, 241);color: black; display: flex;justify-content: space-around; align-items: center; padding: 24px 0;  }
+    background-color: rgba(54, 194, 26, 0.527);color: black; display: flex;justify-content: space-around; align-items: center; padding: 24px 0;  }
     
 .cabecalho_imagem{
     width: 12%; }
@@ -12,7 +12,7 @@
     
  .cabecalho_lista_item{ margin: 25px 0px 25px 0px; font-size: 16px; }
     
- .apresentaçao_trabalho{ background-image: linear-gradient(rgb(205, 231, 255), #1d1add);display: flex;justify-content: space-around;align-items: center;padding: 24px 0; }
+ .apresentaçao_trabalho{ background-image: linear-gradient(rgb(80, 133, 182), #01003f88);display: flex;justify-content: space-around;align-items: center;padding: 24px 0; }
     
 .titulo_apresentaçao_trabalho{ font-size: 30px;}
  
