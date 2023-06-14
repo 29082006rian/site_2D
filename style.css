@@ -4,7 +4,7 @@
 .cabecalho{
     background-image:linear-gradient(rgb(80, 133, 182), #01003f88);color: black; display: flex;justify-content: space-around; align-items: center; padding: 24px 0;  }
     
-.cabecalho_imagem{
+.cabecalho-imagem{
     width: 12%; }
     
 .cabecalho_titulo{
@@ -16,4 +16,4 @@
     
 .titulo_apresentaçao_trabalho{ font-size: 30px;}
  
-.imagem_arvore{width: 15%; }
+.imagem_de_pimenta {width: 15%; }
