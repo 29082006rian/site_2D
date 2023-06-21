@@ -12,7 +12,7 @@
     
  .cabecalho_lista_item{ margin: 15px 0px 15px 0px; font-size: 12px; }
     
- .apresentaçao_trabalho{ background-image: linear-gradient(rgb(80, 133, 182), #01003f88);display: flex;justify-content: space-around;align-items: center;padding: 24px 0; }
+ .apresentaçao_trabalho{ background-image: linear-gradient(rgb(0, 0, 0), #000000);display: flex;justify-content: space-around;align-items: center;padding: 24px 0; }
     
 .titulo_apresentaçao_trabalho{ font-size: 30px;}
  
