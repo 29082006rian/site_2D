@@ -16,7 +16,7 @@
 .apresentaçao_trabalho{ background-image: linear-gradient(rgb(0, 0, 0), #00000075)
                       ;display: flex;justify-content: space-around;align-items: center;padding: 24px 0; }
     
-.titulo_apresentaçao_trabalho{ font-size: 30px;}
+.titulo_apresentaçao_trabalho{ font-size: 30px;color: aliceblue;}
  
 .imagem_de_pimenta {width: 36%;padding:left 0;}
 
@@ -24,4 +24,4 @@
          font-family: Verdana, Geneva, Tahoma, sans-serif; 
          font: size 30px; }
          
-         
+body{color: aliceblue;}
