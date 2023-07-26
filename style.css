@@ -6,7 +6,7 @@
     display: flex;justify-content: space-around; align-items: center; padding: 24px 0;  }
     
 .cabecalho-imagem{
-    width: 36%;padding:left 0;  }
+    width: 20%;padding:left 0;  }
     
 .cabecalho_titulo{
     font-size: 50px; }
