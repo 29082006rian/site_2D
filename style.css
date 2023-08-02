@@ -3,7 +3,7 @@
 
 .cabecalho{
     background-image:linear-gradient(rgb(80, 133, 182), #01003f88);color: black;
-    display: flex;justify-content: space-around; ; padding: 14px 0;  }
+    display: flex;justify-content: space-around;  }
     
 .cabecalho-imagem{
      display: flex;
