@@ -11,7 +11,7 @@
     border-radius: 50%;
     border: 5px solid black;
 }
- img{
+.img1{
     height: 500px;
     width: 500px;
     border-radius: 80%;
@@ -27,7 +27,11 @@
     
 .titulo_apresentaçao_trabalho{ font-size: 30px;color: aliceblue;}
  
-.imagem_de_pimenta {width: 36%;padding:left 0;}
+.img2 {
+    height: 500px;
+    width: 500px;
+    border-radius: 80%;
+    border: 5px solid black;}
 
 .Titulo_3{text-align: center;  
          font-family: Verdana, Geneva, Tahoma, sans-serif; 
