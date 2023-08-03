@@ -28,7 +28,13 @@
 .titulo_apresentaçao_trabalho{ font-size: 30px;color: aliceblue;
 }
  
-.imagem_de_pimenta {width: 36%;padding:left 0;}
+.imagem_de_pimenta {
+    height: 500px;
+    width: 500px;
+    border-radius: 80%;
+    border: 5px solid black;
+ }   
+
 
 .Titulo_3{text-align: center;  
          font-family: Verdana, Geneva, Tahoma, sans-serif; 
