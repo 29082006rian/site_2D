@@ -11,7 +11,7 @@
     border-radius: 50%;
     border: 5px solid black;
 }
-.img1{
+.img{
     height: 500px;
     width: 500px;
     border-radius: 80%;
@@ -25,13 +25,10 @@
 .apresentaçao_trabalho{background-position:bottom,left; background-image: linear-gradient(rgb(0, 0, 0), #00000075)
                       ;display: flex;justify-content: center;align-items: center;padding: 30px 0; }
     
-.titulo_apresentaçao_trabalho{ font-size: 30px;color: aliceblue;}
+.titulo_apresentaçao_trabalho{ font-size: 30px;color: aliceblue;
+}
  
-.img2 {
-    height: 500px;
-    width: 500px;
-    border-radius: 80%;
-    border: 5px solid black;}
+.imagem_de_pimenta {width: 36%;padding:left 0;}
 
 .Titulo_3{text-align: center;  
          font-family: Verdana, Geneva, Tahoma, sans-serif; 
