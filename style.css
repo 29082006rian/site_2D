@@ -50,4 +50,8 @@
     border: 5px solid black;
     align-items: center;
 }
-.imagensderodapé
+.imagensderodapé{
+    height: 500px;
+    width: 500px;
+
+}
