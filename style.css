@@ -23,7 +23,7 @@
 .cabecalho_titulo{
     font-size: 50px; }
     
-.cabecalho_lista_item{ margin: 15px 0px 15px 0px; font-size: 45px;letter-spacing: normal; }
+.cabecalho_lista_item{ margin: 15px 0px 15px 0px; font-size: 60px;letter-spacing: normal; }
     
 .apresentaçao_trabalho{background-position:bottom,left; background-image: linear-gradient(rgb(0, 0, 0), #00000075)
                       ;display: flex;justify-content: center;align-items: center;padding: 30px 0; }
